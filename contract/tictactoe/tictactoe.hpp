@@ -11,5 +11,3 @@ CONTRACT tictactoe : public contract {
 		  print("Welcome, challengers %s and %s! ", host, challenger );
 	  }
 };
-
-
